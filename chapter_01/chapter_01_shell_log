@@ -1,0 +1,29 @@
+Script started on 2026-07-22 12:44:35+07:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="91" LINES="45"]
+[?2004h[32m[[m[31mded[m[33m@[m[32mded-H610M-H2-M-2-D5[m:[36m~/Desktop/gitWork/bash_learn/chapter_01[m[32m][m[0;32m$[m date
+[?2004lWed Jul 22 12:44:40 PM +07 2026
+[?2004h[32m[[m[31mded[m[33m@[m[32mded-H610M-H2-M-2-D5[m:[36m~/Desktop/gitWork/bash_learn/chapter_01[m[32m][m[0;32m$[m cal
+[?2004l     July 2026        
+Su Mo Tu We Th Fr Sa  
+          1  2  3  4  
+ 5  6  7  8  9 10 11  
+12 13 14 15 16 17 18  
+19 20 21 22 23 24 25  
+26 27 28 29 30 31     
+                      
+[?2004h[32m[[m[31mded[m[33m@[m[32mded-H610M-H2-M-2-D5[m:[36m~/Desktop/gitWork/bash_learn/chapter_01[m[32m][m[0;32m$[m df
+[?2004lFilesystem     1K-blocks      Used Available Use% Mounted on
+tmpfs            1612680      3324   1609356   1% /run
+/dev/sda2      228554124 188430436  28440924  87% /
+tmpfs            8063384         4   8063380   1% /dev/shm
+tmpfs               5120         8      5112   1% /run/lock
+efivarfs             192        99        89  53% /sys/firmware/efi/efivars
+/dev/sda1        1098628      6288   1092340   1% /boot/efi
+tmpfs            1612676      2672   1610004   1% /run/user/1000
+[?2004h[32m[[m[31mded[m[33m@[m[32mded-H610M-H2-M-2-D5[m:[36m~/Desktop/gitWork/bash_learn/chapter_01[m[32m][m[0;32m$[m free
+[?2004l               total        used        free      shared  buff/cache   available
+Mem:        16126772     8633896     3902536     1436056     3733732     7492876
+Swap:        4194300     1509544     2684756
+[?2004h[32m[[m[31mded[m[33m@[m[32mded-H610M-H2-M-2-D5[m:[36m~/Desktop/gitWork/bash_learn/chapter_01[m[32m][m[0;32m$[m exit
+[?2004lexit
+
+Script done on 2026-07-22 12:45:33+07:00 [COMMAND_EXIT_CODE="0"]
