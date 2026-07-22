@@ -1,0 +1,16 @@
+Script started on 2026-07-22 15:51:39+07:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="91" LINES="45"]
+[?2004h[32m[[m[31mded[m[33m@[m[32mded-H610M-H2-M-2-D5[m:[36m~/Desktop/gitWork/bash_learn/chapter_02[m[32m][m[0;32m$[m pwd
+[?2004l/home/ded/Desktop/gitWork/bash_learn/chapter_02
+[?2004h[32m[[m[31mded[m[33m@[m[32mded-H610M-H2-M-2-D5[m:[36m~/Desktop/gitWork/bash_learn/chapter_02[m[32m][m[0;32m$[m ls
+[?2004lchapter_02_shell_log  theory_chapter_02.txt
+[?2004h[32m[[m[31mded[m[33m@[m[32mded-H610M-H2-M-2-D5[m:[36m~/Desktop/gitWork/bash_learn/chapter_02[m[32m][m[0;32m$[m cd [K
+[?2004l[?2004h[32m[[m[31mded[m[33m@[m[32mded-H610M-H2-M-2-D5[m:[36m~[m[32m][m[0;32m$[m cd -
+[?2004l/home/ded/Desktop/gitWork/bash_learn/chapter_02
+[?2004h[32m[[m[31mded[m[33m@[m[32mded-H610M-H2-M-2-D5[m:[36m~/Desktop/gitWork/bash_learn/chapter_02[m[32m][m[0;32m$[m cd ../
+[?2004l[?2004h[32m[[m[31mded[m[33m@[m[32mded-H610M-H2-M-2-D5[m:[36m~/Desktop/gitWork/bash_learn[m[32m][m[0;32m$[m cd ./chapter_02/
+[?2004l[?2004h[32m[[m[31mded[m[33m@[m[32mded-H610M-H2-M-2-D5[m:[36m~/Desktop/gitWork/bash_learn/chapter_02[m[32m][m[0;32m$[m ls -l[Ka
+[?2004l[0m[01;34m.[0m  [01;34m..[0m  chapter_02_shell_log  theory_chapter_02.txt
+[?2004h[32m[[m[31mded[m[33m@[m[32mded-H610M-H2-M-2-D5[m:[36m~/Desktop/gitWork/bash_learn/chapter_02[m[32m][m[0;32m$[m exit
+[?2004lexit
+
+Script done on 2026-07-22 15:52:27+07:00 [COMMAND_EXIT_CODE="0"]
